@@ -1,6 +1,6 @@
-<!-- ==================== 1. Top Wave Banner with Radhe Radhe ==================== -->
+<!-- ==================== 1. Top Radhe Radhe Header ==================== -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/058733cb08cf17717dc620595b5492cbe603526a59bbf3439252c61cab8cc664/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d426973752b47686c616e26666f6e7453697a653d363026666f6e74416c69676e3d353026666f6e74416c69676e593d333526616e696d6174696f6e3d66616465496e" alt="🌷Radhe Radhe🌷" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=700&color=ff6f91&center=true&vCenter=true&width=900&lines=🌷Radhe+Radhe🌷" alt="Radhe Radhe Header" />
 </p>
 
 <!-- ==================== 2. Animated Typing Header: KRISHNA | Developer ==================== -->
