@@ -1,26 +1,26 @@
 <!-- ==================== 1. Animated Gradient Header ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=700&color=ff6f91&center=true&vCenter=true&width=800&lines=KRISHNA+on+GitHub!;Building+Bots+%26+Websites;Automation+|+Python+|+JS+|+C%2B%2B;Innovation+%26+Creativity+Unleashed!" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=700&color=ff6f91&center=true&vCenter=true&width=900&lines=KRISHNA+|+Ultimate+God-Level+Developer;Building+Bots+%26+Websites;Automation+|+Python+|+JS+|+C%2B%2B;Innovation+%26+Creativity+Unleashed!" alt="Animated Typing Header" />
 </p>
 
-<!-- ==================== 2. Avatar + Bio ==================== -->
+<!-- ==================== 2. Neon Avatar + Glow Effect ==================== -->
 <p align="center">
-  <img src="https://files.catbox.moe/r2ga8f.jpg" width="130" style="border-radius:50%; border: 4px solid #ff6f91;" alt="KRISHNA" />
+  <img src="https://files.catbox.moe/r2ga8f.jpg" width="160" style="border-radius:50%; border: 5px solid #ff6f91; box-shadow: 0 0 30px #ff6f91, 0 0 60px #ff6f91;" alt="KRISHNA" />
 </p>
 
 <p align="center">
-  🔹 Developer | Telegram Bots | Websites | Automation<br/>
-  🔹 Python | JavaScript | C++ | APIs | Async Programming<br/>
-  🔹 Hosting: Heroku, Render, Vercel, Railway, Netlify, Fly.io, Glitch, AWS Lambda, DigitalOcean, Google Cloud, Azure, Firebase
+  🔹 <strong>Full-Stack Developer</strong> | Telegram Bots | Websites | Automation<br/>
+  🔹 <strong>Languages:</strong> Python | JavaScript | C++ | PHP | Java<br/>
+  🔹 <strong>Hosting:</strong> Heroku, Render, Vercel, Railway, Netlify, Fly.io, Glitch, AWS Lambda, DigitalOcean, GCP, Azure, Firebase
 </p>
 
 <!-- ==================== 3. About Me ==================== -->
 ## 📌 About Me
 <p>
-  Hey! I'm <strong>KRISHNA</strong>, a passionate full-stack developer. I create <strong>Telegram bots</strong>, <strong>web apps</strong>, and <strong>automation tools</strong> that simplify life. Always exploring <strong>new tech</strong> and sharing knowledge through public projects.
+  Hi! I'm <strong>KRISHNA</strong>, a passionate and innovative developer creating <strong>Telegram bots</strong>, <strong>web apps</strong>, and <strong>automation tools</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level, world-class projects</strong> 🚀.
 </p>
 
-<!-- ==================== 4. Tech Stack ==================== -->
+<!-- ==================== 4. Tech Stack & Tools ==================== -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <!-- Programming Languages -->
@@ -36,12 +36,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&animation=spin" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white&animation=spin" alt="Redis" />
   <br/>
-  <!-- Tools & Version Control -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&animation=spin" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&animation=spin" alt="GitHub" />
-  <!-- Hosting / Cloud -->
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&animation=spin" alt="Heroku" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=spin" alt="AWS" />
 </p>
 
 <!-- ==================== 5. Hosting Platforms ==================== -->
@@ -94,17 +91,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lordkrishna29&theme=dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<!-- ==================== 8. Credits ==================== -->
-## 📜 Credits
+<!-- ==================== 8. Visitor Counter ==================== -->
 <p align="center">
-  <ul>
-    <li>👤 GitHub Username: <strong>lordkrishna29</strong></li>
-    <li>🎨 README Template: Custom God-Level Design</li>
-    <li>📊 GitHub Stats & Contribution Graph: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></li>
-    <li>🏆 GitHub Trophies: <a href="https://github.com/ryo-ma/github-profile-trophy">Ryo-ma</a></li>
-    <li>✨ Typing SVG: <a href="https://readme-typing-svg.herokuapp.com/">Readme Typing SVG</a></li>
-    <li>📈 Visitor Counter: <a href="https://komarev.com/ghpvc/">Komarev</a></li>
-  </ul>
+  <img src="https://komarev.com/ghpvc/?username=lordkrishna29&style=flat-square&color=ff6f91" alt="Profile Views" />
 </p>
 
 <!-- ==================== 9. Closing Divider ==================== -->
