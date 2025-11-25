@@ -15,7 +15,7 @@
 
 <p align="center">
   🔹 <strong>Full-Stack Developer</strong> | Telegram Bots | Websites | APIs | Automation<br/>
-  🔹 <strong>Pro-Level Skills:</strong> Python | JavaScript | C++ | PHP | Java<br/>
+  🔹 <strong>Languages:</strong> Python | JavaScript | C++ | PHP | Java<br/>
   🔹 <strong>Hosting:</strong> Heroku, Render, Vercel, Railway, Netlify, Fly.io, Glitch, AWS Lambda, DigitalOcean, GCP, Azure, Firebase
 </p>
 
@@ -61,4 +61,59 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&animation=spin" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&animation=spin" alt="Azure" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&animation=spin" alt="Firebase" />
+</p>
+
+<!-- ==================== 7. Bots, Websites & APIs ==================== -->
+## 🤖 Bots, Websites & APIs
+<p align="center">
+  <a href="https://t.me/JARVIS_V2">
+    <img src="https://img.shields.io/badge/Telegram%20Bot-JARVIS_V2-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+  </a>
+  <a href="https://lordkrishna29.github.io">
+    <img src="https://img.shields.io/badge/Website-KRISHNA-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/lordkrishna29/API-Collection">
+    <img src="https://img.shields.io/badge/APIs-Collection-green?style=for-the-badge&logo=api&logoColor=white" alt="APIs" />
+  </a>
+</p>
+
+<!-- ==================== 8. GitHub Stats ==================== -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lordkrishna29&bg_color=0d1117&color=58a6ff&line=ff7b72&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordkrishna29&theme=dark" alt="GitHub Streak" />
+    </td>
+    <td width="50%">
+      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=lordkrishna29&theme=dracula" alt="Profile Summary Card" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Top Language" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordkrishna29&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- ==================== 9. GitHub Trophies ==================== -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lordkrishna29&theme=dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- ==================== 10. Visitor Counter ==================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lordkrishna29&style=flat-square&color=ff6f91&label=Profile+Views&count=Unknown" alt="Profile Views" />
+</p>
+
+<!-- ==================== 11. Closing Animated Divider ==================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
