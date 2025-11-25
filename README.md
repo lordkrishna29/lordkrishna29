@@ -1,11 +1,12 @@
-<!-- ==================== 1. Animated Gradient Header ==================== -->
+
+<!-- =========<!-- ==================== 1. Animated Wave Header 🌷Radher Radhe🌷 ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=700&color=ff6f91&center=true&vCenter=true&width=900&lines=KRISHNA+|+Developer;Building+Bots+%26+Websites;Automation+|+Python+|+JS+|+C%2B%2B;Innovation+%26+Creativity+Unleashed!" alt="Animated Typing Header" />
+  <img src="https://camo.githubusercontent.com/058733cb08cf17717dc620595b5492cbe603526a59bbf3439252c61cab8cc664/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d426973752b47686c616e26666f6e7453697a653d363026666f6e74416c69676e3d353026666f6e74416c69676e593d333526616e696d6174696f6e3d66616465496e" alt="🌷Radher Radhe🌷" width="700"/>
 </p>
 
-<!-- ==================== 2. Neon Avatar + Hover Glow ==================== -->
+<!-- ==================== 2. Neon Avatar + Glow ==================== -->
 <p align="center">
-  <img src="https://files.catbox.moe/r2ga8f.jpg" width="160" style="border-radius:50%; border: 5px solid #ff6f91; box-shadow: 0 0 30px #ff6f91, 0 0 60px #ff6f91; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 50px #ff6f91, 0 0 100px #ff6f91';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px #ff6f91, 0 0 60px #ff6f91';" alt="KRISHNA" />
+  <img src="https://files.catbox.moe/r2ga8f.jpg" width="160" style="border-radius:50%; border:5px solid #ff6f91; box-shadow: 0 0 30px #ff6f91, 0 0 60px #ff6f91; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 50px #ff6f91, 0 0 100px #ff6f91';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px #ff6f91, 0 0 60px #ff6f91';" alt="KRISHNA" />
 </p>
 
 <p align="center">
@@ -88,11 +89,10 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
   </tr>
   <tr>
     <td width="50%">
-      <!-- Backup static version for Top Languages to avoid Error -->
-      <img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Top Language" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordkrishna29&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordkrishna29&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      <img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Top Language" />
     </td>
   </tr>
 </table>
@@ -100,7 +100,7 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
 <!-- ==================== 8. GitHub Trophies ==================== -->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lordkrishna29&theme=dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lordkrishna29&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophy" width="600" style="border-radius:12px;" />
 </p>
 
 <!-- ==================== 9. Visitor Counter ==================== -->
@@ -108,7 +108,15 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
   <img src="https://komarev.com/ghpvc/?username=lordkrishna29&style=flat-square&color=ff6f91&label=Profile+Views&count=Unknown" alt="Profile Views" />
 </p>
 
-<!-- ==================== 10. Closing Animated Divider ==================== -->
+<!-- ==================== 10. GitHub Metrics & Analytics ==================== -->
+## 📈 GitHub Metrics & Analytics
+<p align="center">
+  <img src="https://github.com/lordkrishna29/github-metrics/blob/master/generated/lordkrishna29.metrics.svg" alt="GitHub Metrics" width="700" />
+  <br/>
+  <img src="https://github.com/lordkrishna29/github-metrics/blob/master/generated/lordkrishna29.analytics.svg" alt="GitHub Analytics" width="700" />
+</p>
+
+<!-- ==================== 11. Closing Animated Divider ==================== -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
