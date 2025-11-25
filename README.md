@@ -1,11 +1,11 @@
 <!-- ==================== 1. Animated Gradient Header ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=700&color=ff6f91&center=true&vCenter=true&width=900&lines=KRISHNA+|+Ultimate+God-Level+Developer;Building+Bots+%26+Websites;Automation+|+Python+|+JS+|+C%2B%2B;Innovation+%26+Creativity+Unleashed!" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=700&color=ff6f91&center=true&vCenter=true&width=900&lines=KRISHNA+|+Developer;Building+Bots+%26+Websites;Automation+|+Python+|+JS+|+C%2B%2B;Innovation+%26+Creativity+Unleashed!" alt="Animated Typing Header" />
 </p>
 
-<!-- ==================== 2. Neon Avatar + Glow Effect ==================== -->
+<!-- ==================== 2. Neon Avatar + Hover Glow ==================== -->
 <p align="center">
-  <img src="https://files.catbox.moe/r2ga8f.jpg" width="160" style="border-radius:50%; border: 5px solid #ff6f91; box-shadow: 0 0 30px #ff6f91, 0 0 60px #ff6f91;" alt="KRISHNA" />
+  <img src="https://files.catbox.moe/r2ga8f.jpg" width="160" style="border-radius:50%; border: 5px solid #ff6f91; box-shadow: 0 0 30px #ff6f91, 0 0 60px #ff6f91; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 50px #ff6f91, 0 0 100px #ff6f91';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px #ff6f91, 0 0 60px #ff6f91';" alt="KRISHNA" />
 </p>
 
 <p align="center">
@@ -16,27 +16,24 @@
 
 <!-- ==================== 3. About Me ==================== -->
 ## 📌 About Me
-<p>
-  Hi! I'm <strong>KRISHNA</strong>, a passionate and innovative developer creating <strong>Telegram bots</strong>, <strong>web apps</strong>, and <strong>automation tools</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level, world-class projects</strong> 🚀.
+<p align="center" style="transition:0.5s; padding:10px;" onmouseover="this.style.background='linear-gradient(90deg, #ff6f91, #6a82fb)'; this.style.borderRadius='12px';" onmouseout="this.style.background='none';">
+Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-class Telegram bots, web apps, and automation tools</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level projects</strong> 🚀.
 </p>
 
-<!-- ==================== 4. Tech Stack & Tools ==================== -->
+<!-- ==================== 4. Tech Stack & Tools (Animated + Hover Glow) ==================== -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&animation=spin" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=spin" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=spin" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=spin" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=spin" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&animation=spin" alt="Python" onmouseover="this.style.boxShadow='0 0 20px #3670A0';" onmouseout="this.style.boxShadow='none';" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=spin" alt="C++" onmouseover="this.style.boxShadow='0 0 20px #00599C';" onmouseout="this.style.boxShadow='none';" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=spin" alt="Java" onmouseover="this.style.boxShadow='0 0 20px #ED8B00';" onmouseout="this.style.boxShadow='none';" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=spin" alt="JavaScript" onmouseover="this.style.boxShadow='0 0 20px #F7DF1E';" onmouseout="this.style.boxShadow='none';" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=spin" alt="PHP" onmouseover="this.style.boxShadow='0 0 20px #777BB4';" onmouseout="this.style.boxShadow='none';" />
   <br/>
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&animation=spin" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=spin" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&animation=spin" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white&animation=spin" alt="Redis" />
   <br/>
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&animation=spin" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&animation=spin" alt="GitHub" />
 </p>
@@ -93,10 +90,10 @@
 
 <!-- ==================== 8. Visitor Counter ==================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lordkrishna29&style=flat-square&color=ff6f91" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lordkrishna29&style=flat-square&color=ff6f91&label=Profile+Views&count=Unknown" alt="Profile Views" />
 </p>
 
-<!-- ==================== 9. Closing Divider ==================== -->
+<!-- ==================== 9. Closing Animated Divider ==================== -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
