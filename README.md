@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🔹 <strong>Full-Stack Developer</strong> | Telegram Bots | Websites | Automation<br/>
+  🔹 <strong>Full-Stack Developer</strong> | Telegram Bots | Websites | APIs | Automation<br/>
   🔹 <strong>Languages:</strong> Python | JavaScript | C++ | PHP | Java<br/>
   🔹 <strong>Hosting:</strong> Heroku, Render, Vercel, Railway, Netlify, Fly.io, Glitch, AWS Lambda, DigitalOcean, GCP, Azure, Firebase
 </p>
@@ -17,17 +17,17 @@
 <!-- ==================== 3. About Me ==================== -->
 ## 📌 About Me
 <p align="center" style="transition:0.5s; padding:10px;" onmouseover="this.style.background='linear-gradient(90deg, #ff6f91, #6a82fb)'; this.style.borderRadius='12px';" onmouseout="this.style.background='none';">
-Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-class Telegram bots, web apps, and automation tools</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level projects</strong> 🚀.
+Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-class Telegram bots, web apps, and APIs</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level projects</strong> 🚀.
 </p>
 
-<!-- ==================== 4. Tech Stack & Tools (Animated + Hover Glow) ==================== -->
+<!-- ==================== 4. Tech Stack & Tools ==================== -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&animation=spin" alt="Python" onmouseover="this.style.boxShadow='0 0 20px #3670A0';" onmouseout="this.style.boxShadow='none';" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=spin" alt="C++" onmouseover="this.style.boxShadow='0 0 20px #00599C';" onmouseout="this.style.boxShadow='none';" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=spin" alt="Java" onmouseover="this.style.boxShadow='0 0 20px #ED8B00';" onmouseout="this.style.boxShadow='none';" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=spin" alt="JavaScript" onmouseover="this.style.boxShadow='0 0 20px #F7DF1E';" onmouseout="this.style.boxShadow='none';" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=spin" alt="PHP" onmouseover="this.style.boxShadow='0 0 20px #777BB4';" onmouseout="this.style.boxShadow='none';" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&animation=spin" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=spin" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=spin" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=spin" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=spin" alt="PHP" />
   <br/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&animation=spin" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=spin" alt="MySQL" />
@@ -57,7 +57,21 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&animation=spin" alt="Firebase" />
 </p>
 
-<!-- ==================== 6. GitHub Stats ==================== -->
+<!-- ==================== 6. Bots, Websites & APIs ==================== -->
+## 🤖 Bots, Websites & APIs
+<p align="center">
+  <a href="https://t.me/JARVIS_V2">
+    <img src="https://img.shields.io/badge/Telegram%20Bot-JARVIS_V2-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+  </a>
+  <a href="https://lordkrishna29.github.io">
+    <img src="https://img.shields.io/badge/Website-KRISHNA-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/lordkrishna29/API-Collection">
+    <img src="https://img.shields.io/badge/APIs-Collection-green?style=for-the-badge&logo=api&logoColor=white" alt="APIs" />
+  </a>
+</p>
+
+<!-- ==================== 7. GitHub Stats ==================== -->
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lordkrishna29&bg_color=0d1117&color=58a6ff&line=ff7b72&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph" />
@@ -74,7 +88,8 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=lordkrishna29&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <!-- Backup static version for Top Languages to avoid Error -->
+      <img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Top Language" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordkrishna29&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
@@ -82,18 +97,18 @@ Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>world-
   </tr>
 </table>
 
-<!-- ==================== 7. GitHub Trophies ==================== -->
+<!-- ==================== 8. GitHub Trophies ==================== -->
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lordkrishna29&theme=dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<!-- ==================== 8. Visitor Counter ==================== -->
+<!-- ==================== 9. Visitor Counter ==================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lordkrishna29&style=flat-square&color=ff6f91&label=Profile+Views&count=Unknown" alt="Profile Views" />
 </p>
 
-<!-- ==================== 9. Closing Animated Divider ==================== -->
+<!-- ==================== 10. Closing Animated Divider ==================== -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
