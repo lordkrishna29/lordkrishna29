@@ -22,7 +22,7 @@
 <!-- ==================== 4. About Me ==================== -->
 ## 📌 About Me
 <p align="center" style="transition:0.5s; padding:10px;" onmouseover="this.style.background='linear-gradient(90deg, #ff6f91, #6a82fb)'; this.style.borderRadius='12px';" onmouseout="this.style.background='none';">
-Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>develope-Telegram bots, web apps, and APIs</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level projects</strong> 🚀. <br/>
+Hi! I'm <strong>KRISHNA</strong>, a passionate developer creating <strong>Telegram bots, web apps, and APIs</strong> that simplify life. Always exploring <strong>new tech</strong> and delivering <strong>pro-level projects</strong> 🚀. <br/>
 💡 My mission: <strong>Innovation, Automation, & Creativity Unleashed</strong>
 </p>
 
